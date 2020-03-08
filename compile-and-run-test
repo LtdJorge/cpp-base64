@@ -1,2 +1,0 @@
-g++ tobase64.cpp base64.cpp -o tobase64
-./test-base64
