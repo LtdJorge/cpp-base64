@@ -1,7 +1,7 @@
-# base64 (C++)
+# cpp-base64
 
-Base64 encoding and decoding with c++
+Simple Base64 encoder and decoder. Reads from STDIN and outputs to STDOUT.
 
-## See also
 
-https://renenyffenegger.ch/notes/development/Base64/Encoding-and-decoding-base-64-with-cpp
+
+Original from [René Nyffenegger](https://renenyffenegger.ch/)
