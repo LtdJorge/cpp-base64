@@ -1,2 +1,5 @@
 *.swp
+Debug
+*.obj
+.vs
 test-base64

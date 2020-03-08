@@ -1,2 +1,2 @@
-g++ test.cpp base64.cpp -o test-base64
+g++ tobase64.cpp base64.cpp -o tobase64
 ./test-base64
