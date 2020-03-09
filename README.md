@@ -11,7 +11,7 @@ Original by [René Nyffenegger](https://renenyffenegger.ch)
 ```
 $ echo "hello world" | ./tobase64
 aGVsbG8gd29ybGQ=
-# On Windows use 'echo hello world|', because it's echo implementation passes the quotation marks and whitespace.
+# On Windows use 'echo hello world|', because its echo implementation passes the quotation marks and whitespace.
 ```
 #### Encode a file to base64:
 ```
@@ -28,7 +28,7 @@ hello world
 #### Decode a file:
 ```
 $ cat ./mybase64file.txt | ./frombase64 > newbashrc.txt
-$ diff -q mybase64file.txt ~/.bashrc
+$ diff -s mybase64file.txt ~/.bashrc
 Files newbashrc.txt and /home/$USER/.bashrc are identical
 ```
 
