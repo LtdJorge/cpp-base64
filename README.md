@@ -2,7 +2,6 @@
 
 Simple base64 encoder/decoder. Accepts input from STDIN and outputs to STDOUT, specially useful for piping files.
 
-The master branch is unmodified from the forked project, use the other branches.
 Original by [René Nyffenegger](https://renenyffenegger.ch)
 
 ## Usage
@@ -51,11 +50,7 @@ Then open **cpp-base.sln** and compile the project. There are build configuratio
 Copy the *.exe*s to a folder in your PATH.
 
 ## Building on Linux/Unix
-This project was created on Windows and ported to **CMake** via Visual Studio for compatibility, using the Windows Subsystem for Linux. To get the CMake port, change to the cmake branch (A CMake install is **not** needed, just plain make):
-```
-$ git checkout cmake
-```
-Then enter the Cmake generated folder:
+Enter the Cmake generated folder:
 ```
 $ cd out/build/WSL-Release
 ```
