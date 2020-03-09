@@ -47,6 +47,7 @@ Then open **cpp-base.sln** and compile the project. There are build configuratio
 | Windows | x64  | Release|
 |   WSL   |   -  | Debug  |
 |   WSL   |   -  | Release|
+
 Copy the *.exe*s to a folder in your PATH.
 
 ## Building on Linux/Unix
