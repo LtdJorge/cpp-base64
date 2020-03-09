@@ -1,11 +1,7 @@
 #include "base64.h"
 #include <iostream>
 
-#ifdef _WIN32
-    #define NEWLINE "\r\n"
-#else
-    #define NEWLINE "\n"
-#endif
+constexpr auto NEWLINE = "\n";
 
 int main() {
   std::string input_string;
@@ -14,8 +10,8 @@ int main() {
     input_string.append(line);
         input_string.append(NEWLINE);
   }
-	
-  std::string newLine = NEWLINE;
+
+  const std::string newLine = NEWLINE;
 
   input_string.erase(input_string.length()-newLine.length(), input_string.length());
 
