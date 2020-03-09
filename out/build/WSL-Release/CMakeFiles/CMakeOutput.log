@@ -1,0 +1,55 @@
+The system is: Linux - 4.4.0-18362-Microsoft - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/3.15.3150938-MSVC_2/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/3.15.3150938-MSVC_2/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_187bb/fast && /usr/bin/make -f CMakeFiles/cmTC_187bb.dir/build.make CMakeFiles/cmTC_187bb.dir/build
+make[1]: Entering directory '/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_187bb.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_187bb.dir/testCCompiler.c.o   -c /mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_187bb
+/home/jorge/.vs/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_187bb.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_187bb.dir/testCCompiler.c.o  -o cmTC_187bb 
+make[1]: Leaving directory '/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_65f13/fast && /usr/bin/make -f CMakeFiles/cmTC_65f13.dir/build.make CMakeFiles/cmTC_65f13.dir/build
+make[1]: Entering directory '/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_65f13.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_65f13.dir/testCXXCompiler.cxx.o -c /mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_65f13
+/home/jorge/.vs/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_65f13.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_65f13.dir/testCXXCompiler.cxx.o  -o cmTC_65f13 
+make[1]: Leaving directory '/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/CMakeTmp'
+
+
+

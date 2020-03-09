@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/base64.cpp
+base64.h
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/base64.h
+iostream
+-
+
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/base64.h
+string
+-
+
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/frombase64.cpp
+base64.h
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/base64.h
+iostream
+-
+

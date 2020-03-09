@@ -1,0 +1,4 @@
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/tobase64.dir
+/mnt/c/Users/jorge/Documents/C++/cpp-base64/out/build/WSL-Release/CMakeFiles/frombase64.dir

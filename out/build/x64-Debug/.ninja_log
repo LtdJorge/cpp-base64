@@ -1,0 +1,7 @@
+# ninja log v5
+3	258	605404727	CMakeFiles/frombase64.dir/base64.cpp.obj	135913c5fbdcd560
+2	262	605404727	CMakeFiles/frombase64.dir/frombase64.cpp.obj	14e1c8c7ffa14642
+1	286	605404727	CMakeFiles/tobase64.dir/base64.cpp.obj	695f4240bfb33b13
+0	286	605404727	CMakeFiles/tobase64.dir/tobase64.cpp.obj	eed890c62559a0d
+285	448	605404727	frombase64.exe	df37769fe72588ee
+287	449	605404727	tobase64.exe	f910334aea27d41c
